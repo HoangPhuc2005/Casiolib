@@ -39,5 +39,5 @@ font-family: 'ClassWiz X Display';
 }
 @font-face {
     font-family: 'Classwiz X Display';
-    src: url(https://github.com/HoangPhuc2005/casiolib/blob/main/ClassWizXDisplay-Regular.otf);
+    src: url(https://github.com/HoangPhuc2005/casiolib/blob/main/ClassWizXDisplay-Regular.otf) format('opentype');
 }
