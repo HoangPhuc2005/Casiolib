@@ -33,8 +33,8 @@
             background-image: url('https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-sagiri-wallpaper-4k-nen-xanh.jpg');
             background-size: cover;
             padding: 30px 0;
-            font-family: 'Classwiz X Display', sans-serif;  /* Fallback to sans-serif if font fails to load */
+            font-family: 'ClassWizXDisplay-Regular', sans-serif;  /* Fallback to sans-serif if font fails to load */
         }
         h2, p {
-            font-family: 'Classwiz X Display', sans-serif;
+            font-family: 'ClassWizXDisplay-Regular', sans-serif;
         }
